@@ -1,1 +1,4 @@
-_posts/2023/07/01-title.md
+---
+title: "Welcome to GaliMarivale blog"
+date: 2023-07-01
+---
